@@ -3,8 +3,8 @@ from setuptools import setup
 
 setup(
     name='suds_requests4',
-    version='1.0.0',
-    description='A suds transport implemented with requests using suds-py3',
+    version='1.0.1',
+    description='A suds transport implemented with requests using suds-community',
     long_description=open('README.rst').read(),
     author='Jason Michalski',
     author_email='jmrosal@crosal-research.com',

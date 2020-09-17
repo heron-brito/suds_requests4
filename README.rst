@@ -1,4 +1,4 @@
-suds_requests3
+suds_requests4
 =============
 
 Simple port of the original `suds_requests <https://github.com/armooo/suds_requests>` to python 3. All API is the same.
