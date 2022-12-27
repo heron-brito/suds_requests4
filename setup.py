@@ -13,5 +13,5 @@ setup(
     install_requires=['requests', 'suds-community'],
     license='MIT',
     url='https://github.com/genusistimelord/suds_requests4',
-	python_requires='>=3.7',
+	python_requires='>=3.6',
 )
